@@ -15,7 +15,7 @@
 - 🚀 I’m currently learning **MERN Stack**
 - 💬 Ask me about **HTML, CSS, and Bootstrap**
 - 📫 Reach me at: **anirbanbanerjee481@gmail.com**
-- 📄 [Resume](https://tinyurl.com/anirban-resume)
+- 📄 [Resume](https://drive.google.com/file/d/1dwNXCBypb0XQaxiyQ2fholIsdRNlSP2c/view?usp=drive_link)
 
 ---
 
