@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Anirban Banerjee</h1>
-<h3 align="center">💻 A passionate Frontend Developer from India 🇮🇳</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Anirban+Banerjee;A+Frontend+Developer+from+India+🇮🇳;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Developer animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Developer animation"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aevilop&label=Profile%20views&color=0e75b6&style=flat" alt="aevilop" />
+  <img src="https://komarev.com/ghpvc/?username=aevilop&label=Profile%20views&color=ff69b4&style=flat-square" alt="aevilop" />
 </p>
 
 ---
@@ -19,53 +21,57 @@
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
 <a href="https://x.com/anirban4810" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anirban-banerjee-7a131224a/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45" />
 </a>
-<a href="https://www.facebook.com/anirban.banerjee" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
+&nbsp;&nbsp;
+<a href="[https://www.facebook.com/anirban.banerjee](https://www.facebook.com/share/16Vxb2hfGB/)" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="45" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/aevil.ebx/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="30" width="40" style="filter: invert(50%) sepia(100%) saturate(200%) hue-rotate(300deg);" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="45" />
 </a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+<h2 align="center">🧰 Languages and Tools</h2>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,mysql,git,github,react" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aevilop&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aevilop&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aevilop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aevilop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" height="170"/>
 </p>
 
 ---
 
-### ⚡ Fun GIF
+<h2 align="center">⚡ Featured GIF</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding animation"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" alt="Coding animation"/>
 </p>
 
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
 <p align="center">Let's connect and grow together 🚀</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
