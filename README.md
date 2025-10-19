@@ -46,7 +46,7 @@
 <h2 align="center">🧰 Languages and Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,mysql,git,github,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,mysql,git,github" />
 </p>
 
 ---
