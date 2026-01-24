@@ -38,10 +38,10 @@ Currently transitioning from **pure frontend → full stack**.
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
