@@ -41,7 +41,7 @@ Currently transitioning from **pure frontend → full stack**.
 <img src="https://skillicons.dev/icons?i=mysql,nodejs,express,mongodb" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite" />
 
 ---
 
