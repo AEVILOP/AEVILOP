@@ -35,7 +35,7 @@ Currently transitioning from **pure frontend → full stack**.
 ## 🔧 Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,ts" />
 
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=mysql,nodejs,express,mongodb" />
