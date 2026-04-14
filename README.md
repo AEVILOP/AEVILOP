@@ -1,229 +1,338 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          🌌 HEADER SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00E4FF&height=220&section=header&text=Anirban%20Banerjee&fontSize=50&fontColor=00E4FF&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Craftsman%20%7C%20Full%20Stack%20Explorer&descSize=16&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     ✦ ANIRBAN BANERJEE ✦                           ║ -->
+<!-- ║              GitHub Profile — Built Different.                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        ⌨️ TYPING ANIMATION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  HERO BANNER  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+const+passion+%3D+%22Building+Clean+UI%22;+%3E+while(true)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         🔗 SOCIAL BADGES                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=250&section=header&text=ANIRBAN%20BANERJEE&fontSize=55&fontColor=ffffff&fontAlignY=32&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Building%20for%20the%20Web&descSize=17&descColor=ffffffcc&descAlignY=52&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <a href="mailto:anirbanbanerjee481@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-anirbanbanerjee481-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/anirban-banerjee-7a131224a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anirban_Banerjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
-  <a href="https://github.com/aevilop">
-    <img src="https://img.shields.io/badge/GitHub-aevilop-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aevilop&label=Profile%20Views&color=00E4FF&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-</p>
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  TERMINAL INTRO  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          🧬 ABOUT ME                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="55%" valign="top">
 
-<img align="right" src="https://raw.githubusercontent.com/rahuljoshi533/rahuljoshi533/main/assets/coder.gif" width="340" alt="Coding GIF"/>
+```js
+// ✦ about_anirban.js
 
-### &nbsp; `> whoami`
-
-```yaml
-Name:       Anirban Banerjee
-Role:       Frontend Developer (React)
-Education:  B.Tech 2025 Graduate
-Location:   India 🇮🇳
-Focus:      Frontend → Full Stack Transition
+const anirban = {
+    pronouns: "He" | "Him",
+    title: "MERN Stack Developer",
+    stack: ["MongoDB", "Express", "React", "Node.js"],
+    education: "B.Tech 2025 Graduate 🎓",
+    location: "India 🇮🇳",
+    
+    currentlyBuilding: "Full Stack Web Apps",
+    exploring: ["TypeScript", "Prisma", "System Design"],
+    
+    philosophy: {
+        code: "Clean > Clever",
+        ui: "Pixel-perfect or nothing",
+        backend: "Scalable & Secure",
+        growth: "Ship fast, learn faster"
+    },
+    
+    funFact: "I mass console.log and I'm proud 😤"
+};
 ```
 
-🔭 &nbsp; Building **production-grade React apps**, not tutorials  
-🌱 &nbsp; Leveling up with **Node.js, Express & MongoDB**  
-🧠 &nbsp; I value **clean logic** over clever tricks  
-💬 &nbsp; Ask me about **React, JavaScript, Component Design**  
-📫 &nbsp; Reach me at **anirbanbanerjee481@gmail.com**  
-⚡ &nbsp; Fun fact: I debug with `console.log` and I'm not ashamed
+</td>
+<td width="45%" align="center" valign="top">
 
-<br clear="both"/>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="340" alt="Developer GIF" />
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         🛠️ TECH ARSENAL                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<br/><br/>
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<a href="mailto:anirbanbanerjee481@gmail.com">
+  <img src="https://img.shields.io/badge/-anirbanbanerjee481@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<br/>
+<a href="https://linkedin.com/in/anirban-banerjee-7a131224a/">
+  <img src="https://img.shields.io/badge/-Anirban%20Banerjee-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<br/>
+<a href="https://github.com/aevilop">
+  <img src="https://img.shields.io/badge/-@aevilop-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-<table align="center">
-  <tr>
-    <td align="center" width="140"><b>⚡ Frontend</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>🔧 Backend</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>🧰 Tools</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,vercel&theme=dark" />
-    </td>
-  </tr>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aevilop&style=flat-square&color=0f3460&label=PROFILE+VIEWS" />
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  DIVIDER  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        📊 GITHUB STATS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  TECH STACK  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" />
+  &nbsp; Tech Arsenal
+</h2>
+
+<p align="center"><i>Battle-tested. Not just listed.</i></p>
+
+<br/>
+
+<h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aevilop&show_icons=true&theme=algolia&bg_color=0d1117&border_color=161b22&icon_color=00E4FF&title_color=00E4FF&text_color=8B949E&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  &nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aevilop&theme=algolia&background=0d1117&border=161b22&stroke=161b22&ring=00E4FF&fire=FF6347&currStreakLabel=00E4FF&sideLabels=00E4FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" /></a>
 </p>
 
+<h3 align="center">⚙️ Backend & Database</h3>
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aevilop&layout=donut&theme=algolia&bg_color=0d1117&border_color=161b22&title_color=00E4FF&text_color=8B949E&hide_border=false&langs_count=8" alt="Top Languages" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" /></a>
+</p>
+
+<h3 align="center">🛠️ DevTools & Deployment</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,vercel&theme=dark" /></a>
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        🏆 GITHUB TROPHIES                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<details>
+<summary align="center"><b>📋 Detailed Breakdown (click to expand)</b></summary>
+<br/>
+<div align="center">
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+| Layer | Technologies |
+|:---|:---|
+| **🖥️ Languages** | `JavaScript` · `TypeScript` · `HTML5` · `CSS3` |
+| **⚛️ Frontend** | `React.js` · `TailwindCSS` · `Bootstrap` |
+| **🔧 Backend** | `Node.js` · `Express.js` |
+| **🗄️ Databases** | `MongoDB` · `MySQL` |
+| **🚀 Deployment** | `Vercel` · `Render` · `Netlify` |
+| **🧰 Tools** | `Git` · `GitHub` · `VS Code` · `Postman` · `Vite` |
+
+</div>
+</details>
+
+<br/>
+
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  DIVIDER  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  CODER + COFFEE  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" />
+  &nbsp; Code. Coffee. Repeat.
+</h2>
+
+<br/>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="Coding" />
+  <br/><br/>
+  <b>👨‍💻 Writing Code</b>
+  <br/>
+  <sub>Where bugs become features</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zb/giphy.gif" width="220" alt="Coffee" />
+  <br/><br/>
+  <b>☕ Fueled by Coffee</b>
+  <br/>
+  <sub>Daily caffeine intake: ██████░░ 75%</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="260" alt="Learning" />
+  <br/><br/>
+  <b>📚 Always Learning</b>
+  <br/>
+  <sub>Currently: Full Stack Journey</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+```
+           ██████╗ ██████╗ ███████╗███████╗███████╗███████╗
+          ██╔════╝██╔═══██╗██╔════╝██╔════╝██╔════╝██╔════╝
+          ██║     ██║   ██║█████╗  █████╗  █████╗  █████╗  
+          ██║     ██║   ██║██╔══╝  ██╔══╝  ██╔══╝  ██╔══╝  
+          ╚██████╗╚██████╔╝██║     ██║     ███████╗███████╗
+           ╚═════╝ ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚══════╝
+                ☕ turns mass coffee → mass commits
+```
+
+</div>
+
+<br/>
+
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  DIVIDER  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  CURRENT FOCUS  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+
+<h2 align="center">
+  🚀 What I'm Locked In On
+</h2>
+
+<br/>
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((🧠 2026 Roadmap))
+    🎯 Frontend Mastery
+      React Advanced Patterns
+      TypeScript Deep Dive
+      Next.js & SSR
+    ⚙️ Backend & APIs
+      REST + GraphQL
+      Auth & Security
+      Microservices Basics
+    🗃️ Databases
+      MongoDB Advanced
+      PostgreSQL
+      Prisma ORM
+    🚀 Career Goals
+      Ship Production Apps
+      Open Source Contributions
+      Land MERN Dev Role
+```
+
+</div>
+
+<br/>
+
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  DIVIDER  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  WEEKLY DEV BREAKDOWN  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+
+<h2 align="center">
+  ⏱️ Weekly Dev Breakdown
+</h2>
+
+<p align="center"><i>A typical week in my developer life.</i></p>
+
+<br/>
+
+<div align="center">
+
+```text
+🖥️ Frontend (React/JS)    ████████████████████░░░░░   78.5%
+⚙️ Backend (Node/Express)  ██████████░░░░░░░░░░░░░░░   42.3%
+🗄️ Database (MongoDB)      ██████░░░░░░░░░░░░░░░░░░░   25.0%
+🐛 Debugging               █████████████░░░░░░░░░░░░   52.0%
+☕ Coffee Breaks            █████████████████████████   100%
+```
+
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aevilop&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350" alt="Developer drinking coffee" />
+</p>
+
+<p align="center">
+  <samp>↑ Live footage of me during a production deploy ↑</samp>
 </p>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  DIVIDER  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     📈 ACTIVITY GRAPH                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<h2 align="center">📈 Contribution Graph</h2>
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  DEV QUOTE  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+
+<h2 align="center">💭 Dev Wisdom</h2>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aevilop&bg_color=0d1117&color=00E4FF&line=00E4FF&point=FFFFFF&area_color=00E4FF&area=true&hide_border=true&custom_title=Anirban's%20Contribution%20Graph" width="95%" alt="Activity Graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
 </p>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  DIVIDER  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                       🚀 CURRENT FOCUS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<h2 align="center">🚀 What I'm Building Towards</h2>
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  CONNECT  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🧩_React_Mastery-Deepening_Fundamentals-00E4FF?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🔥_Real_Projects-Not_Tutorials-FF6347?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🛠️_Backend-Node_+_Express-68A063?style=for-the-badge&labelColor=0d1117" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🗃️_Databases-SQL_+_NoSQL-4479A1?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🎯_Goal-Entry_Level_Dev_Role-FFD700?style=for-the-badge&labelColor=0d1117" />
-</p>
+<h2 align="center">🤝 Let's Build Something Together</h2>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                       🐍 SNAKE ANIMATION                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aevilop/aevilop/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aevilop/aevilop/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/aevilop/aevilop/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</p>
-
-> **Note:** To activate the snake animation, add the [snake workflow](https://github.com/Platane/snk) to your profile repo's `.github/workflows/` directory.
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                       💡 DEV QUOTE                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">💡 Random Dev Wisdom</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" alt="Dev Quote" />
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          📫 CONNECT                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-  <i>"I don't just write code — I craft experiences. Let's build something meaningful together."</i>
-</p>
 
 <p align="center">
   <a href="mailto:anirbanbanerjee481@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-00E4FF?style=for-the-badge&labelColor=0d1117" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/anirban-banerjee-7a131224a/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&labelColor=0d1117" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/aevilop">
-    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          🌊 FOOTER                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  UNIQUE FOOTER  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00E4FF&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<br/>
+
+<div align="center">
+
+```
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║                                                                  ║
+  ║   █▀▄▀█ █▀▀ █▀█ █▄░█   █▀ ▀█▀ ▄▀█ █▀▀ █▄▀                    ║
+  ║   █░▀░█ ██▄ █▀▄ █░▀█   ▄█ ░█░ █▀█ █▄▄ █░█                    ║
+  ║                                                                  ║
+  ║            MongoDB  ·  Express  ·  React  ·  Node               ║
+  ║                                                                  ║
+  ║   ┌─────────────────────────────────────────────────────────┐    ║
+  ║   │  🟢 Status: Open to Opportunities                      │    ║
+  ║   │  📍 Location: India                                    │    ║
+  ║   │  ☕ Coffee Count Today: Math.floor(Math.random() * 5)   │    ║
+  ║   │  💻 Currently: Building something awesome...            │    ║
+  ║   └─────────────────────────────────────────────────────────┘    ║
+  ║                                                                  ║
+  ║        ⭐ If my code helped you, star a repo —                   ║
+  ║          it costs nothing but means everything.                  ║
+  ║                                                                  ║
+  ╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Colorful_Profile._Serious_Intent.-0d1117?style=flat-square&labelColor=0d1117" />
-</p>
-
-<p align="center">
-  <sub>⭐ If you like what you see, consider giving my repos a star! ⭐</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=footer" width="100%" />
 </p>
