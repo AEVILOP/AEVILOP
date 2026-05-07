@@ -1,4 +1,3 @@
-
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                     ✦ ANIRBAN BANERJEE ✦                           ║ -->
 <!-- ║              GitHub Profile — Built Different.                      ║ -->
@@ -40,7 +39,7 @@ const anirban = {
         growth: "Ship fast, learn faster"
     },
     
-    funFact: "I mass console.log and I'm proud 😤"
+    funFact: "I mass console.log and I'm proud 😤🍋🌶️"
 };
 ```
 
